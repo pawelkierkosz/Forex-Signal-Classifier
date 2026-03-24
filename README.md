@@ -10,7 +10,7 @@ The main goal of the project was to design and implement a system that supports 
 
 Financial time series are noisy, non-stationary, and difficult to model directly from raw OHLC candles. In this project, we focused on improving predictive performance through **carefully designed input features**, instead of relying only on raw price values.
 
-The core idea of the system is to:
+The core idea of the system is to: 
 - process historical and live Forex candle data,
 - generate **ZigZag-based structural market features**,
 - enrich them with **technical indicators**,
