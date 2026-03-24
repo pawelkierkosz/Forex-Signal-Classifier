@@ -18,7 +18,7 @@ The core idea of the system is to:
 - expose the trained models through a backend API,
 - visualize market data and model signals in a web interface.
 
-The project was completed as part of an engineering thesis by a team of four students.
+The project was completed as part of an engineering thesis by a team of four students. 
 
 ---
 
