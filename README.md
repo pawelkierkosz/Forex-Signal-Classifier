@@ -356,6 +356,10 @@ The most important contribution of the project is the combination of:
 * **machine learning for market signal prediction**,
 * and a **working software system** that exposes these results in an accessible form.
 
+---
+
+## App Demo & Visualizations
+
 https://github.com/user-attachments/assets/fcf10f35-9bd6-4626-b0e7-ba6328c193eb
 
 https://github.com/user-attachments/assets/4abb462d-781e-48e2-8804-58324da19b91
